@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👨‍💻 [吴凯霖]
 
-<!--
-**PP0-FC/PP0-FC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> "想做一个优秀的全栈开发者" 
 
-Here are some ideas to get you started:
+![C](https://img.shields.io/badge/Language-C-blue.svg) 
+![STM32](https://img.shields.io/badge/Platform-STM32-brightgreen.svg) 
+![FreeRTOS](https://img.shields.io/badge/OS-FreeRTOS-orange.svg) 
+![Git](https://img.shields.io/badge/Tools-Git-red.svg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 专注于嵌入式系统开发，热衷于利用实时操作系统 (RTOS) 解决复杂的硬件调度问题。
+
+- 🏮 学习构建稳定、高效的嵌入式物联网方案。
+- 📈 持续在 GitHub 记录我的工程实践与代码重构历程。
+- 💬 欢迎交流关于 STM32 驱动开发与 RTOS 任务优化的话题。
+
+---
